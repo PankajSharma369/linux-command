@@ -82,19 +82,22 @@ Backup the /etc/nginx directory.
 
 # SECTION B
 ## PART 1
-## sysopctl service list
+## List Running Services:
 ![alt text](/IMG-20241213-WA0007.jpg)
-## sysopctl system load
+## View System Load:
 ![alt text](/IMG-20241213-WA0005.jpg)
+
 # PART 2
+## Manage System Services:
 ## sysopctl service stop nginx
 ![alt text](/IMG-20241213-WA0006.jpg)
 ## sysopctl service start nginx
 ![alt text](/IMG-20241213-WA0004.jpg)
+
 # PART 3
-## sysopctl  process monitor
+## Monitor System Processes:
 ![alt text](/IMG-20241213-WA0010.jpg)
-## sysopctl process monitor
+##  Monitor System Processes:
 ![alt text](/IMG-20241213-WA0008.jpg)
-## sysopctl logs analyze
+## Analyze System Logs:
 ![alt text](/IMG-20241213-WA0011.jpg)
