@@ -9,6 +9,6 @@
 ## sysopctl process monitor
 ![alt text](/IMG-20241213-WA0008.jpg)
 ## sysopctl  process monitor
-![alt text](/IMG-20241213-WA00010.jpg)
+![alt text](/IMG-20241213-WA0010.jpg)
 ## sysopctl logs analyze
-![alt text](/IMG-20241213-WA00011.jpg)
+![alt text](/IMG-20241213-WA0011.jpg)
