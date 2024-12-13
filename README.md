@@ -4,7 +4,7 @@
 ![alt text](/IMG-20241213-WA0005.jpg)
 ## sysopctl service start nginx
 ![alt text](/IMG-20241213-WA0006.jpg)
-## sysopctl service start nginx
+## sysopctl service stop nginx
 ![alt text](/IMG-20241213-WA0004.jpg)
 ## sysopctl  process monitor
 ![alt text](/IMG-20241213-WA0010.jpg)
