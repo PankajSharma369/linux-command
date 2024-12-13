@@ -93,7 +93,9 @@ Backup the /etc/nginx directory.
 ![alt text](/IMG-20241213-WA0006.jpg)
 ## sysopctl service start nginx
 ![alt text](/IMG-20241213-WA0004.jpg)
-##Check Disk Usage:
+## Check Disk Usage:
+![alt text](image_2024-12-12_105601205.png)
+
 
 
 # PART 3
